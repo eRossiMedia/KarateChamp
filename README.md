@@ -1,6 +1,6 @@
 # KarateChamp
 
-I would like to speak to you about hireing you to coninue the Karate Champ developement. The idea is to have the original Karate Champ game played ofver a socket connection or the likes to allow for multi player interaction over the web.
+I would like to speak to you about hireing you to coninue the Karate Champ developement. The idea is to have the original Karate Champ game played over a socket connection or the likes to allow for multi player interaction over the web.
 
 Is this something you would be interested in?
 
